@@ -5,7 +5,7 @@ public class GitTest {
     public static void main(String[] args) {
 
         System.out.println("hello, git!!!");
-        System.out.println("hello, githut!!!");
+        System.out.println("hello, github!!!");
     }
 
     public int add(int a, int b){

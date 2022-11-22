@@ -11,10 +11,7 @@ public class GitTest {
         return a + b;
     }
 
-
     public int sub(int a, int b){
-        int c =  a - b;
-        return c;
+        return a - b;
     }
-
 }
